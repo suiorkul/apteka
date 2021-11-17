@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/suiorkul/apteka/blob/main/sss/Screenshot_1637041565.png)
 ![alt text](http://url/to/img.png)
 ![alt text](http://url/to/img.png)
 ![alt text](http://url/to/img.png)
